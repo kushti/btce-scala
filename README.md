@@ -24,7 +24,7 @@ To set credentials, create own implementation of ClientCredentials trait:
 
 By default, WS library from Play framework is used for HTTP requests. To replace 
 it, implement abstract functions *getRequest* (for Market Data API Client), *signedPostRequest* (for Trade API Client), *releaseConnections* (if needed) from HttpApiClient trait
-and make own Client implementation as:
+and make own trade API and market data API implementations as:
 
 `class MyTradeApiClient(credentials: ClientCredentials) extends TradeApiClient(credentials) with MyHttpApiClient`
 
@@ -44,5 +44,8 @@ Donations
 ---------
 
 Please, support my work:
+
 BTC: 1NJPJf1dqkEXwfBCHBLvLoQBMd6TG7gdLy
+
 LTC: 4G5g5Ht6rSGz3bZ6NXua7rSgBkRboBVygi
+
