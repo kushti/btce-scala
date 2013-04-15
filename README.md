@@ -12,6 +12,13 @@ Client depends on Lift-JSON library (a part of the Lift framework, but could be 
 
 or download and put jar to appropriate folder etc.
 
+
+Specs2 framework used for testing, add following dependency for it :
+
+`"org.specs2" %% "specs2" % "1.14" % "test"`
+
+(not needed if you use PlayFramework 2.x)
+
 How to Use the Client
 ---------------------
 
