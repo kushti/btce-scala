@@ -2,8 +2,8 @@
  * Copyright (C) 2013 Alexander Chepurnoy (http://chepurnoy.org/)
  *
  * If you like it, send donations to
- * BTC: 1NJPJf1dqkEXwfBCHBLvLoQBMd6TG7gdLy
- * LTC: 4G5g5Ht6rSGz3bZ6NXua7rSgBkRboBVygi
+ * BTC: 1DLFrNmQboQmZzo9aPKrcrJkLtXKh2hQuU
+ * LTC: LS5D18dfqQVUqSGVsYCinwvTuwUZ9FJ89V
  *
  *
  * This Source Code Form is subject to the terms of the Mozilla Public

@@ -52,7 +52,7 @@ Donations
 
 Please, support my work:
 
-BTC: 1NJPJf1dqkEXwfBCHBLvLoQBMd6TG7gdLy
+BTC: 1DLFrNmQboQmZzo9aPKrcrJkLtXKh2hQuU
 
-LTC: 4G5g5Ht6rSGz3bZ6NXua7rSgBkRboBVygi
+LTC: LS5D18dfqQVUqSGVsYCinwvTuwUZ9FJ89V
 
