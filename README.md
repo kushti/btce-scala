@@ -1,7 +1,9 @@
 btce-scala
 ==========
 
-Scala Client for BTC-E Trade and Market Data APIs. BTC-E is the Cryptocurrencies(Bitcoin/Litecoin/Namecoin/...) Broker
+Scala Client for BTC-E Trade and Market Data APIs. BTC-E is the Cryptocurrencies(Bitcoin/Litecoin/Namecoin/...) Broker.
+
+
 
 Dependencies
 ------------
@@ -22,6 +24,8 @@ Specs2 framework used for testing, add following dependency for it :
 How to Use the Client
 ---------------------
 
+(more info [in my blog](http://chepurnoy.org/blog/2013/04/scala-clients-for-btc-e-trade-and-public-data-apis-my-first-opensource-released/))
+
 To set credentials, create own implementation of ClientCredentials trait:
 
     object MyClientCredentials extends ClientCredentials {
@@ -40,6 +44,7 @@ and
 `class MyMarketDataApiClient extends MarketDataApiClient with MyHttpApiClient`
 
 
+More info [in my blog][]
 
 Weak points
 -----------
